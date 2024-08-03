@@ -1,5 +1,5 @@
-git clone https://github.com/yourusername/yourusername.github.io
-cd yourusername.github.io
+git clone https://github.com/dpkpunetha07/dpk.github.io)
+cd dpk.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
