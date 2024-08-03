@@ -5,7 +5,7 @@
   </head>
   
   <body>
-    <h1>Hi, I'm Deepak Punetha !</h1>  
+    <h1>Hi, I'm Deepak Punetha!</h1>  
     
     <p>Welcome to my website!</p> 
   </body>
